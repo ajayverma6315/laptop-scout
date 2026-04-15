@@ -3,8 +3,3 @@
 </div>
 
 # laptop scout
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
