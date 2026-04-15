@@ -1,4 +1,5 @@
 @import "tailwindcss";
+@import "tw-animate-css";
 
 @theme {
   --font-space: var(--font-space), ui-sans-serif, system-ui, sans-serif;
